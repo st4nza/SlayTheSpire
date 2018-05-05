@@ -1,0 +1,2 @@
+# SlayTheSpire
+always whale option
