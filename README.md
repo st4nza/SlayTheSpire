@@ -20,7 +20,7 @@ Also make sure the format of your STSPlayer is as follows (can be found in above
   "DMG_DEALT": "1508"
 }
 
-For some reason the one in beta was spaced outlike this, but the one in non beta was in a single line.
+For some reason the file non-beta was all in a single line.
 If you don't see a new line after every comma, simply just press enter after every comma to make
 it look nice and hit save :D
 
