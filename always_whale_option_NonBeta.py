@@ -13,5 +13,5 @@ for key, value in data.items():
         data[key] = '1'
 
 with open(Location, 'w') as outfile:
-    json.dump(data, outfile)
+    json.dump(data, outfile, indent=1)
 
