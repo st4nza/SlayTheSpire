@@ -1,9 +1,6 @@
 import json
 
 Location = r'C:\Program Files (x86)\Steam\steamapps\common\SlayTheSpire\betaPreferences\STSPlayer'
-    
-with open(Location) as f:
-    lst2=f.read().splitlines()
 
 with open(Location) as f:
     data = json.load(f)
